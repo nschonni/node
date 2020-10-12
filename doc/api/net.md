@@ -348,7 +348,7 @@ changes:
 
 If `port` is specified, it behaves the same as
 <a href="#net_server_listen_port_host_backlog_callback">
-<code>server.listen([port[, host[, backlog]]][, callback])</code></a>.
+<code>server.listen(\[port\[, host\[, backlog\]\]\]\[, callback\])</code></a>.
 Otherwise, if `path` is specified, it behaves the same as
 [`server.listen(path[, backlog][, callback])`][`server.listen(path)`].
 If none of them is specified, an error will be thrown.
