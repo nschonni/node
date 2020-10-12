@@ -93,10 +93,10 @@ The tools are currently assigned to Tiers as follows:
 
 ## Tier 1
 
-| Tool Type | Tool/API Name             | Regular Testing in Node.js CI | Integrated with Node.js | Target Tier |
-|-----------|---------------------------|-------------------------------|-------------------------|-------------|
-| FFDC | diagnostic report | Yes | Yes | 1 |
-| | | | | |
+| Tool Type | Tool/API Name     | Regular Testing in Node.js CI | Integrated with Node.js | Target Tier |
+|-----------|-------------------|-------------------------------|-------------------------|-------------|
+| FFDC      | diagnostic report | Yes                           | Yes                     | 1           |
+|           |                   |                               |                         |             |
 
 ## Tier 2
 
